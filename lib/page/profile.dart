@@ -9,7 +9,7 @@ class Profile extends StatefulWidget {
 
 class _ProfileState extends State<Profile> {
   @override
-  var Emails = 'hasooooomi52@gmail.com';
+  var Emails = 'hasoomi52@gmail.com';
 
   @override
   Widget build(BuildContext context) {
