@@ -77,7 +77,11 @@ class home extends StatelessWidget {
               text2: '20\$',
               imagee:
                   'https://w7.pngwing.com/pngs/345/732/png-transparent-vase-interior-design-services-home-decoration-television-decor-decorative.png'),
-          Category(text1: 'Art', text2: '50\$', imagee: 'images/products/art1.png'),
+          Category(
+              text1: 'Art',
+              text2: '50\$',
+              imagee:
+                  'background-image:url(https://st2.depositphotos.com/3332767/10706/i/110/depositphotos_107062726-stock-photo-blank-canvas-on-an-easel.jpg);'),
           Category(
               text1: 'Office Supplies',
               text2: '20\$',
